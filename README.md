@@ -45,7 +45,7 @@ El proyecto se basa en una paleta cromática estratégica para guiar la experien
 └── img/
     ├── logo.png            # Logotipo corporativo circular
     └── [imágenes-productos]# Recursos optimizados (700KB - 2MB)
-
+```
 ## ⚙️ Instalación y Despliegue
 
 Al ser un proyecto estático (Vanilla HTML/CSS), no requiere dependencias de Node.js ni procesos de build complejos.
