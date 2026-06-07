@@ -45,3 +45,17 @@ El proyecto se basa en una paleta cromática estratégica para guiar la experien
 └── img/
     ├── logo.png            # Logotipo corporativo circular
     └── [imágenes-productos]# Recursos optimizados (700KB - 2MB)
+
+## ⚙️ Instalación y Despliegue
+
+Al ser un proyecto estático (Vanilla HTML/CSS), no requiere dependencias de Node.js ni procesos de build complejos.
+
+1. Clona el repositorio:
+   \`\`\`bash
+   git clone https://github.com/tu-usuario/the-fiction-pantry.git
+   \`\`\`
+2. Abre el directorio del proyecto.
+3. Lanza el archivo `index.html` en tu navegador o utiliza una extensión como *Live Server* en VSCode para previsualizar los cambios en tiempo real.
+
+---
+*Desarrollado por [Lidia Ruiz de Valdivia Sánchez] - Optimizando interfaces web con código limpio y escalable.*
